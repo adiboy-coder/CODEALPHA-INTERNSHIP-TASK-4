@@ -1,3 +1,3 @@
 # CODEALPHA-INTERNSHIP-TASK-4
 
-My name is Aditya Kumbhar and this project is part of Codealpha Internship in MACHINE LEARNING domain.
+My name is Aditya Kumbhar and this project is part of Codealpha Internship in DATA SCIENCE domain.
